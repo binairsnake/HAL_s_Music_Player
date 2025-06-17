@@ -112,16 +112,18 @@ De applicatie slaat automatisch op:
 - ODT (OpenDocument tekst)
 - SRT (karaoke/ondertiteling)
 
+  
 ### SRT-file maken
 SRT_Maker is een apart programma om SRT-files te maken voor het Karaoke gedeelte.
-1   Laad een songtekst (TXT of ODT) of kopieer de songtext in het tekst gedeelte
-2   Schoon de text op: Alleen de titel en de songtext. 
-    Je kunt op een regel gaan staan en verwijderen klikken.
-3   Koppel de audio-file van de songtekst
-4   Start de sessie.
-5    Muis klik is tijd start, muis ingedrukt houden tot de regel gespeeld is.
-6   Muis loslaten is tijd stop van die regel.
-7   Aan het eind komt de functie vrij om de SRT-file een naam te geven en op te slaan.
+
+- Laad een songtekst (TXT of ODT) of kopieer de songtext in het tekst gedeelte
+- Schoon de text op: Alleen de titel en de songtext. Je kunt op een regel gaan staan en verwijderen klikken.
+- Koppel de audio-file van de songtekst
+- Start de sessie.
+- Muis klik is tijd start, muis ingedrukt houden tot de regel gespeeld is.
+- Muis loslaten is tijd stop van die regel.
+-  Aan het eind komt de functie vrij om de SRT-file een naam te geven en op te slaan.
+
 
 
 ## 🐛 Problemen Oplossen
