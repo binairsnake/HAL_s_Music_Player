@@ -1,0 +1,29 @@
+# HAL's Music Player - Required Dependencies
+
+# GUI Framework
+PyQt6>=6.6.1
+
+# Audio Processing
+pygame>=2.5.0
+mutagen>=1.47.0
+
+# Document Processing (for ODT files)
+odfpy>=1.4.1
+
+# Optional: Video Processing (if using video features)
+moviepy>=2.2.1
+decorator>=4.0.2
+imageio>=2.5
+imageio-ffmpeg>=0.4.0
+proglog>=0.1.9
+requests>=2.8.1
+tqdm>=4.11.2
+
+# Optional: Audio Analysis (if using advanced features)
+# numpy>=1.20.0
+# librosa>=0.10.0
+
+# Optional: Speech Recognition (if using voice features)
+# SpeechRecognition==3.14.0
+# pydub==0.25.1
+# PyAudio==0.2.13 
